@@ -9,9 +9,9 @@ Classify stroke patient based on the inhibition between Tibialis Anterior and So
 ## Analysis
 
 1. Exploratory Data Analysis
-2. Built a second-order WLS polynomial regression model with effect coding technique applied
-3. Classified stroke patient based on the values of coefficients.
+2. Built a second-order WLS polynomial regression line with effect coding technique applied to model the relationship between the powers of Tibialis Anterior and Soleus muscles.
+3. Classified stroke patient according to the values of coefficients.
 
 ## Conclusion
 
-Obtained 100% accuracy by succeeding classifying 3 strke patients out of 17 candidates.
+Obtained 100% accuracy by succeeding detecting 3 stroke patients out of 17 candidates.
